@@ -1,0 +1,25 @@
+{
+  "name": "starter",
+  "version": "0.0.0",
+  "description": "Grunt starter",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "car3oon",
+  "license": "BSD",
+  "dependencies": {
+    "autoprefixer": "^6.0.3",
+    "bower": "^1.6.5",
+    "csswring": "^4.0.0",
+    "grunt": "^0.4.5",
+    "grunt-browser-sync": "^2.1.3",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-copy": "^0.8.2",
+    "grunt-contrib-uglify": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-postcss": "^0.7.0",
+    "grunt-sass": "^1.1.0",
+    "load-grunt-tasks": "^3.3.0"
+  }
+}

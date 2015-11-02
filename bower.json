@@ -1,0 +1,12 @@
+{
+  "name": "starter",
+  "version": "0.0.0",
+  "homepage": "",
+  "author": "car3oon",
+  "license": "BSD",
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "components-font-awesome": "~4.3.0",
+    "jquery": "~2.1.4"
+  }
+}

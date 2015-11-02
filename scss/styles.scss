@@ -1,0 +1,12 @@
+@import "bootstrap-sass/assets/stylesheets/bootstrap";
+@import "components-font-awesome/scss/font-awesome";
+
+body {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 14px;
+}
+.container {
+	border-radius: 20px;
+	padding: 20px;
+	background: #ddd;
+}
