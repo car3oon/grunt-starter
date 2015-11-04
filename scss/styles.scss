@@ -1,5 +1,7 @@
 @import "bootstrap-sass/assets/stylesheets/bootstrap";
 @import "components-font-awesome/scss/font-awesome";
+@import "scaffold/vars";
+@import "scaffold/mixin";
 
 body {
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
